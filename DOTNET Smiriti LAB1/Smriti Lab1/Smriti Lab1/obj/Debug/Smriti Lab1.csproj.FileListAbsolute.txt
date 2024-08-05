@@ -1,0 +1,7 @@
+C:\Users\smriti\OneDrive\Desktop\DOTNET Smiriti LAB1\Smriti Lab1\Smriti Lab1\obj\Debug\Smriti Lab1.csproj.AssemblyReference.cache
+C:\Users\smriti\OneDrive\Desktop\DOTNET Smiriti LAB1\Smriti Lab1\Smriti Lab1\obj\Debug\Smriti Lab1.csproj.CoreCompileInputs.cache
+C:\Users\smriti\OneDrive\Desktop\DOTNET Smiriti LAB1\Smriti Lab1\Smriti Lab1\bin\Debug\Smriti Lab1.exe.config
+C:\Users\smriti\OneDrive\Desktop\DOTNET Smiriti LAB1\Smriti Lab1\Smriti Lab1\bin\Debug\Smriti Lab1.exe
+C:\Users\smriti\OneDrive\Desktop\DOTNET Smiriti LAB1\Smriti Lab1\Smriti Lab1\bin\Debug\Smriti Lab1.pdb
+C:\Users\smriti\OneDrive\Desktop\DOTNET Smiriti LAB1\Smriti Lab1\Smriti Lab1\obj\Debug\Smriti Lab1.exe
+C:\Users\smriti\OneDrive\Desktop\DOTNET Smiriti LAB1\Smriti Lab1\Smriti Lab1\obj\Debug\Smriti Lab1.pdb
